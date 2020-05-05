@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586373333 source:e:\workingon\outsource projects\usama walayat # 01 (c++)\memory-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1586373333 source:e:\workingon\projects\habib khachab\memory-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
