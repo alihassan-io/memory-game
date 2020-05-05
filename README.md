@@ -4,13 +4,9 @@ Memory Game, also known as Concentration, Match Match, Match Up, Pelmanism, Shin
 
 ## Built With
 
-- [C++ OOP](http://www.cplusplus.com/reference/) - The console game
+- [C++ OOP](http://www.cplusplus.com/reference/) - The Console Game
 - [Code::Blocks 17.12](https://sourceforge.net/projects/codeblocks/) -The open-source cross-platform IDE for C++ 
 
 ## Authors
 
 - **Ali Hassan** - _other work_ - [GitHub](https://github.com/AliHassanAlraee "Ali Hassan Alraee")
-
-## Acknowledgments
-
-- Inspired by [OS-TEMPLATES](https://www.os-templates.com/)
