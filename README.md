@@ -14,3 +14,7 @@ To get started with this project, simply clone the repository and open the `inde
 ## Authors
 
 - **Ali Hassan** - _other work_ - [GitHub](https://github.com/AliHassanAlraee "Ali Hassan Alraee")
+
+##Acknowledgments
+
+This project was created as an example of implementing a console-based memory game using object-oriented programming in C++.
